@@ -158,10 +158,6 @@ body {
     </ul>
   </section>
 
-  <!-- Testimonios -->
-  <section class="card mt-6" aria-label="Testimonios de Alumnos">
-    <h2 class="text-2xl font-bold mb-4">Lo que dicen nuestros alumnos</h2>
-
       <!-- Testimonios -->
   <section class="card mt-6" aria-label="Testimonios de Alumnos">
     <h2 class="text-2xl font-bold mb-4">Lo que dicen nuestros alumnos</h2>

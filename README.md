@@ -159,26 +159,22 @@ body {
   </section>
 
   <!-- Testimonios -->
-
-  <!-- Testimonios -->
   <section class="card mt-6" aria-label="Testimonios de Alumnos">
     <h2 class="text-2xl font-bold mb-4">Lo que dicen nuestros alumnos</h2>
 
-    <blockquote class="p-3 bg-red-50 border-l-4 border-red-400 text-red-700 rounded-lg">
-          <p class="font-semibold"> “He realizado 2 preparaciones en esta academia y he obtenido notas altas en 2022 y 2024."</blockquote>
+      <!-- Testimonios -->
+  <section class="card mt-6" aria-label="Testimonios de Alumnos">
+    <h2 class="text-2xl font-bold mb-4">Lo que dicen nuestros alumnos</h2>
+
+    <blockquote class="p-4 bg-pink-50 rounded-lg italic">"He realizado 2 preparaciones en esta academia y he obtenido notas altas en 2022 y 2024."</blockquote>
     <p class="mt-2 text-right font-semibold">— Claudia Soto</p>
 
-    <blockquote class="p-3 bg-red-50 border-l-4 border-red-400 text-red-700 rounded-lg">
-          <p class="font-semibold">“Aprobé el examen oral con un 10 en 2024”.</blockquote>
+    <blockquote class="p-4 bg-pink-50 rounded-lg italic mt-6">“Aprobé el examen oral con un 10 en 2024”.</blockquote>
     <p class="mt-2 text-right font-semibold">— Helena Fernández</p>
 
-    <blockquote class="p-3 bg-red-50 border-l-4 border-red-400 text-red-700 rounded-lg">
-          <p class="font-semibold">“Me presenté por primera vez en 2024 y gracias a esta academia aprobé los dos exámenes”.</blockquote>
+    <blockquote class="p-4 bg-pink-50 rounded-lg italic mt-6">“Me presenté por primera vez en 2024 y gracias a esta academia aprobé los dos exámenes”.</blockquote>
     <p class="mt-2 text-right font-semibold">— María Hernández</p>
   </section>
-
-
-
 
   <!-- Footer -->
   <footer class="mt-8 text-center p-6 bg-gradient-to-r from-yellow-400 to-pink-400 rounded-2xl shadow-strong">

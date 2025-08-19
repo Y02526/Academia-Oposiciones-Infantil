@@ -158,7 +158,7 @@ body {
     </ul>
   </section>
 
-      <!-- Testimonios -->
+  <!-- Testimonios -->
   <section class="card mt-6" aria-label="Testimonios de Alumnos">
     <h2 class="text-2xl font-bold mb-4">Lo que dicen nuestros alumnos</h2>
 
@@ -181,10 +181,11 @@ body {
   </footer>
 </div>
 
-<!-- Botón flotante -->
-<a href="tel:605599261" 
-   class="fixed bottom-6 right-6 bg-pink-500 text-white p-4 rounded-full shadow-lg hover:bg-pink-600 transition transform hover:scale-110">
-   <i class="fas fa-phone-alt"></i>
+<!-- Botón flotante WhatsApp con mensaje predefinido -->
+<a href="https://wa.me/34605599261?text=Hola%2C%20estoy%20interesad%40%20en%20la%20preparaci%C3%B3n%20de%20oposiciones%20de%20infantil" 
+   target="_blank" 
+   class="fixed bottom-6 right-6 bg-green-500 text-white p-4 rounded-full shadow-lg hover:bg-green-600 transition transform hover:scale-110">
+   <i class="fab fa-whatsapp text-2xl"></i>
 </a>
 
 <!-- Script contador -->

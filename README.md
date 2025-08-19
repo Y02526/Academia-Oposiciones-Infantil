@@ -168,7 +168,7 @@ body {
     <blockquote class="p-4 bg-pink-50 rounded-lg italic mt-6">“Aprobé el examen oral con un 10 en 2024”.</blockquote>
     <p class="mt-2 text-right font-semibold">— Helena Fernández</p>
 
-    <blockquote class="p-4 bg-pink-50 rounded-lg italic mt-6">“Me presenté por primera vez en 2024 y gracias a esta academia aprobé los dos exámenes”.</blockquote>
+    <blockquote class="p-4 bg-pink-50 rounded-lg italic mt-6">“Me presenté por primera vez en 2024 y, gracias a esta academia, aprobé los dos exámenes”.</blockquote>
     <p class="mt-2 text-right font-semibold">— María Hernández</p>
   </section>
 

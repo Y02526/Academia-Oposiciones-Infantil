@@ -52,11 +52,11 @@ body {
           <h2 class="text-2xl font-bold">Preparación Exclusiva</h2>
         </div>
         <ul class="space-y-3 text-gray-700 mb-4">
-          <li><i class="fas fa-users text-yellow-600 mr-2"></i>Grupo reducido: Máx. 10 personas.</li>
+          <li><i class="fas fa-users text-yellow-600 mr-2"></i>Grupo reducido: máx. 10 personas.</li>
           <li><i class="fas fa-map-marker-alt text-yellow-600 mr-2"></i>Lugar: Cartagena.</li>
           <li><i class="fas fa-video text-yellow-600 mr-2"></i>Modalidad: Presencial y Online en directo.</li>
           <li><i class="far fa-clock text-yellow-600 mr-2"></i>Horario: 1 tarde a la semana (3-4h).</li>
-          <li><i class="fas fa-bullseye text-yellow-600 mr-2"></i>Dirigido a: Nuevos y antiguos opositores.</li>
+          <li><i class="fas fa-bullseye text-yellow-600 mr-2"></i>Dirigido a: nuevos y antiguos opositores.</li>
         </ul>
         <div class="p-3 bg-red-50 border-l-4 border-red-400 text-red-700 rounded-lg">
           <p class="font-semibold">Si no estás dispuesto a darlo todo, esta no es tu academia.</p>
@@ -70,7 +70,7 @@ body {
           <h2 class="text-2xl font-bold">Temario</h2>
         </div>
         <ul class="space-y-3 text-gray-700">
-          <li>📘 Temario propio actualizado (DUA, ODS, Retos del siglo XXI, Competencias clave y específicas, intervenciones educativas,…).</li>
+          <li>📘 Temario propio actualizado (DUA, ODS, Retos del siglo XXI, Competencias clave y específicas, intervenciones educativas…).</li>
           <li>📝 Resúmenes a 3000 palabras y listos para estudiar.</li>
           <li>🔄 <span class="font-semibold">3 vueltas completas</span> al temario garantizadas.</li>
           <li>🎯 Trabajo práctico en clase y apoyo de esquemas.</li>
@@ -168,7 +168,7 @@ body {
     <blockquote class="p-4 bg-pink-50 rounded-lg italic mt-6">“Aprobé el examen oral con un 10 en 2024”.</blockquote>
     <p class="mt-2 text-right font-semibold">— Helena Fernández</p>
 
-    <blockquote class="p-4 bg-pink-50 rounded-lg italic mt-6">“Me presenté por primera vez en 2024 y, gracias a esta academia, aprobé los dos exámenes”.</blockquote>
+    <blockquote class="p-4 bg-pink-50 rounded-lg italic mt-6">“Me presenté por primera vez en 2024 y gracias a esta academia aprobé los dos exámenes”.</blockquote>
     <p class="mt-2 text-right font-semibold">— María Hernández</p>
   </section>
 
